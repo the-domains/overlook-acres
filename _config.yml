@@ -1,14 +1,27 @@
-layout_spectrum: 0.5847845915704966
 typography_spectrum: 0.5672315733972937
+content_rating:
+  adult: false
 color:
   brandStrength: 0.3218245510943234
   lightness: 0.6269076815806329
   saturation: 0.22803831496275961
   rhythmicContrast: 0.5054789853747934
   brandColors:
-    - '#E0FBFC'
-    - '#C2DFE3'
-    - '#9DB4C0'
-    - '#5C6B73'
-    - '#253237'
+    - '#B4AF91'
+    - '#787746'
+    - '#40411E'
+    - '#32331D'
+    - '#C03000'
+opengraph:
+  type: Like Button
+  appId: '500660916797892'
+  image: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba8e4835-3a3d-41c5-a31f-6d610c8ede58.jpg'
+layout_spectrum: 0.5847845915704966
+author:
+  name: Jason Ambrosino
+  email: overlookacresny@gmail.com
+  url: www.overlookacres.org
+logo: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/91924ef3-1dd2-4a6b-9afc-225d6bcd3610.png'
 name: Overlook Acres
+favicon: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com/98c67551-e7d3-4658-a850-ab7d99f86bd2.jpg'
+title: Where Humane Agriculture Grows
